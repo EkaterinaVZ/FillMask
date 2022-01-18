@@ -11,7 +11,7 @@ from transformers import pipeline
 
 st.image("logotip.png", width=400)
 
-st.title('Model "Fill mask"', anchor="Mask")
+st.title('Model "Fill mask"')
 
 inp = st.text_input('Введите текст на языке согласно представленному ниже образцу',
                     'I study economics at [MASK].')
