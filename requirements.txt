@@ -1,6 +1,7 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 pip==21.3.1
 fastapi
+time
 uvicorn
 transformers
 torch==1.9.0+cpu
