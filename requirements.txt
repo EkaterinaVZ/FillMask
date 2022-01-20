@@ -4,4 +4,4 @@ uvicorn
 transformers
 torch==1.9.0+cpu
 scikit-learn==0.22.1
-streamlit==0.62.0
+streamlit==0.79
